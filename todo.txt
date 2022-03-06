@@ -1,0 +1,15 @@
+// APIs to be made
+
+// Auth APIs
+
+1. Register User
+2. Login User
+3. Get user details
+
+// CRUD Operations
+
+4. Get all products
+5. Get single products
+6. Post products
+7. Update products
+8. Delete products
